@@ -30,8 +30,8 @@ Un bot Telegram écrit en Python qui fournit la météo en temps réel, des pré
 
 1. **Cloner le dépôt**
    ```bash
-   git clone https://github.com/<ton-pseudo>/<nom-du-repo>.git
-   cd <nom-du-repo>
+   git clone https://github.com/HuGoPoZZ/weather_bot.git
+   cd weather_bot
    ```
 
 2. **Installer les dépendances**
@@ -93,3 +93,4 @@ Le bot se met alors en écoute. Ouvre Telegram, lance `/start` et c'est parti.
 - Gérer des clés sensibles avec des variables d'environnement (`python-dotenv`)
 - Comprendre la boucle d'événements asynchrone et les handlers de `python-telegram-bot`
 - Planifier des tâches récurrentes avec la `job_queue`
+- Améliorer ma maîtrise de Python au global, ce projet étant un de mes premiers
